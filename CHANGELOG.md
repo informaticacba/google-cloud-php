@@ -1,5 +1,117 @@
 # Changelog
 
+## 0.176.0
+
+<details><summary>google/cloud-access-approval 0.4.0</summary>
+
+
+
+### Features
+
+* [AccessApproval] added resource annotations ([#5110](https://github.com/googleapis/google-cloud-php/issues/5110)) ([2696444](https://github.com/googleapis/google-cloud-php/commit/26964448003ef9483ebc9dc284dd38bdb5d4a2ad))
+
+</details>
+
+<details><summary>google/cloud-billing-budgets 0.2.5</summary>
+
+
+
+### Documentation
+
+* [BillingBudgets] Formatting change from HTML to markdown; Additional clarifications ([#5109](https://github.com/googleapis/google-cloud-php/issues/5109)) ([72bfdbd](https://github.com/googleapis/google-cloud-php/commit/72bfdbd608a61ef5feaae0565a18100d85fbe791))
+
+</details>
+
+<details><summary>google/cloud-channel 0.6.2</summary>
+
+
+
+### Documentation
+
+* [Channel] Change description for GCP ProvisionedService.provisioning_id value ([#5094](https://github.com/googleapis/google-cloud-php/issues/5094)) ([7ea538f](https://github.com/googleapis/google-cloud-php/commit/7ea538fa495b405f901ad88cb353d3813c61d4dd))
+
+</details>
+
+<details><summary>google/cloud-common-protos 0.3.2</summary>
+
+
+
+### Miscellaneous Chores
+
+* remove outdated badges ([#5106](https://github.com/googleapis/google-cloud-php/issues/5106)) ([f4da571](https://github.com/googleapis/google-cloud-php/commit/f4da5718d9e10b437aaa02aed221278187c3e55c))
+
+</details>
+
+<details><summary>google/cloud-data-catalog 1.2.0</summary>
+
+
+
+### Features
+
+* [DataCatalog] Add methods and messages related to starring feature ([#5103](https://github.com/googleapis/google-cloud-php/issues/5103)) ([cb0ae69](https://github.com/googleapis/google-cloud-php/commit/cb0ae69b8c4b96cfd5b671f6d1b8f7a98c28329a))
+
+</details>
+
+<details><summary>google/cloud-dataflow 0.2.0</summary>
+
+
+
+### Features
+
+* [Dataflow] new parameters in FlexTemplateRuntimeEnvironment ([#5087](https://github.com/googleapis/google-cloud-php/issues/5087)) ([2823f6f](https://github.com/googleapis/google-cloud-php/commit/2823f6f35b7913dded8094fe2f018f2c58d9476d))
+
+</details>
+
+<details><summary>google/cloud-eventarc 0.2.0</summary>
+
+
+
+### Features
+
+* [Eventarc] Add Channel and ChannelConnection resources ([#5091](https://github.com/googleapis/google-cloud-php/issues/5091)) ([0a38493](https://github.com/googleapis/google-cloud-php/commit/0a384931ddc3863ec7f4b87dc711ebaedc4be158))
+
+</details>
+
+<details><summary>google/cloud-logging 1.23.1</summary>
+
+
+
+### Bug Fixes
+
+* deprecation message in PsrLogger on PHP 8.1 ([#5006](https://github.com/googleapis/google-cloud-php/issues/5006)) ([58ff66a](https://github.com/googleapis/google-cloud-php/commit/58ff66a3c27a65f2391b701b8ad1bd9f56c7183f))
+
+</details>
+
+<details><summary>google/cloud-network-connectivity 0.2.0</summary>
+
+
+
+### Features
+
+* [NetworkConnectivity] Add LocationMetadata message ([#5099](https://github.com/googleapis/google-cloud-php/issues/5099)) ([309a154](https://github.com/googleapis/google-cloud-php/commit/309a1540e173becdb5ed74254a693233bc84dd8b))
+
+</details>
+
+<details><summary>google/cloud-osconfig 0.5.0</summary>
+
+
+
+### Features
+
+* [OsConfig] Update osconfig v1 protos ([#5101](https://github.com/googleapis/google-cloud-php/issues/5101)) ([71d321b](https://github.com/googleapis/google-cloud-php/commit/71d321bcfe4c4627c7d5a1ec1a668e3ac5565ff0))
+
+</details>
+
+<details><summary>google/cloud-redis 1.6.0</summary>
+
+
+
+### Features
+
+* [Redis] add secondary_ip_range field ([#5111](https://github.com/googleapis/google-cloud-php/issues/5111)) ([a1f64d2](https://github.com/googleapis/google-cloud-php/commit/a1f64d2ec630b2d653fc32aea5cbe787039623f5))
+
+</details>
+
 ## 0.175.0
 
 <details><summary>google/cloud-bigquerydatatransfer 1.3.0</summary>
